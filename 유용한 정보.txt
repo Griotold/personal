@@ -3,3 +3,8 @@
 2. Momentume : 브라우저 창 열때마다 멋진 풍경
 3. CSSViewer : 특정 페이지의 CSS 엘리먼트 확인
 4. JSONViewer
+
+아이비리그 컷, 리젠트 컷
+
+IT 회사에선 키보드 뭐 써요?
+https://brunch.co.kr/@hypercloud/57
