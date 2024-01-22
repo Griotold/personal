@@ -9,4 +9,5 @@
 IT 회사에선 키보드 뭐 써요?
 https://brunch.co.kr/@hypercloud/57
 
-fastcampus 1+1???
+저평가된 IntelliJ IDEA 단축키 소개
+https://blog.jetbrains.com/ko/idea/2022/11/top-underrated-shortcuts/
