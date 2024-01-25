@@ -14,3 +14,6 @@ https://blog.jetbrains.com/ko/idea/2022/11/top-underrated-shortcuts/
 
 마틴 파울러 - MSA 및 유용한 개발 지식
 https://martinfowler.com/articles/microservices.html#OrganizedAroundBusinessCapabilities
+
+유데이 뉴스레터 - 신입 개발자, 입사하면 바로 '이것부터'
+https://udemy.wjtb.co.kr/newsletter/id/10000972?utm_medium=owned&utm_source=kakao-channel&utm_campaign=udemykorea_insight&utm_content=id_10000972&utm_term=230125
