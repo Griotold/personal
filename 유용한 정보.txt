@@ -11,3 +11,6 @@ https://brunch.co.kr/@hypercloud/57
 
 저평가된 IntelliJ IDEA 단축키 소개
 https://blog.jetbrains.com/ko/idea/2022/11/top-underrated-shortcuts/
+
+마틴 파울러 - MSA 및 유용한 개발 지식
+https://martinfowler.com/articles/microservices.html#OrganizedAroundBusinessCapabilities
