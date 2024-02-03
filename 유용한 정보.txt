@@ -20,3 +20,8 @@ https://udemy.wjtb.co.kr/newsletter/id/10000972?utm_medium=owned&utm_source=kaka
 
 마틴 파울러 - 테스팅 가이드
 https://martinfowler.com/testing/
+
+https://martinfowler.com/bliki/UniformAccessPrinciple.html
+
+https://martinfowler.com/books/meszaros.html
+
