@@ -2,4 +2,3 @@
 
 2. Java 14 Record
 
-3. .http :  인텔리제이에서 http 요청 

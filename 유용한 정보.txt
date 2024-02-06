@@ -24,6 +24,3 @@ https://martinfowler.com/testing/
 https://martinfowler.com/bliki/UniformAccessPrinciple.html
 
 https://martinfowler.com/books/meszaros.html
-
-인텔리제이 - 아이콘 변경
-Atom Material File Icons
