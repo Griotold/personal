@@ -24,3 +24,19 @@ https://martinfowler.com/testing/
 https://martinfowler.com/bliki/UniformAccessPrinciple.html
 
 https://martinfowler.com/books/meszaros.html
+
+*검색 dto*
+만약에 아래와 같은 시그니쳐라면
+public ResponseEntity<?> findAllWithPage(@RequestParam(value = "categoryId", req
+                                             @RequestParam(value = "status", required = false) ActiveStatus activeStatus,
+                                             @RequestParam(value = "title", required = false) String title,
+                                             @RequestParam(value = "body", required = false) String body,
+                                             Pageable pageable) {
+                                             @PageableDefault(size = 5) Pageable pageable) {
+---
+findAllWithPage(SearchRequestParamDto, Pageable pageable)
+이렇게 사용하면 되려나? 
+-> 응!
+
+쿼리파라미터 dto 사용하기 : https://e-room.tistory.com/169
+
