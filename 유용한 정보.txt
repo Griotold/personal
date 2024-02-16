@@ -46,3 +46,7 @@ CodeGlance Pro 플러그인
 *in 쿼리 대신 array_contains*
 **스프링부트 3.1 버전 - 하이버네이트 6.2**
 https://www.inflearn.com/questions/903628/19-04-%EC%B4%88-where-in-%EC%BF%BC%EB%A6%AC-%EB%8C%80%EC%8B%A0-where-array-conatins-%EC%BF%BC%EB%A6%AC%EA%B0%80-%EB%82%98%EC%99%94%EC%8A%B5%EB%8B%88%EB%8B%A4-%EC%8A%A4%ED%94%84%EB%A7%81-%EB%B6%80%ED%8A%B8-3-1
+
+*사이드 프로젝트*
+- 댓글 까지 개발 완료하면 댓글 개수 적용은 주문 조회 V5 방식으로 해결해보기 
+- - Map<Long, List<OrderItemQueryDto>> 
