@@ -1,6 +1,2 @@
 MSA / Kotlin / Kafka / Redis
 
-1. Atomic integer
-
-2. Java 14 Record
-
