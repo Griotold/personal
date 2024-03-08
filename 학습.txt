@@ -1,2 +1,10 @@
 MSA / Kotlin / Kafka / Redis
 
+Mockito features in korean 
+https://github.com/mockito/mockito/wiki/Mockito-features-in-Korean
+
+스프링 부트 test 공식 문서
+https://docs.spring.io/spring-boot/docs/current/reference/html/features.html#features.testing
+
+SpringBoot @MockBean, @SpyBean
+https://jojoldu.tistory.com/226
